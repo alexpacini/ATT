@@ -15,4 +15,4 @@
 
 > The resulting plot:
 
-![4ASK_BER](https://raw.github.com/alexpacini/Uni.Snippets/master/ATT/4ASK/plot.png)
+![4ASK_BER](https://raw.github.com/alexpacini/ATT/master/ATT/4ASK/plot.png)
